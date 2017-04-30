@@ -8,7 +8,7 @@
 - [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Business-ebook/dp/B005K0AYH4/ref=sr_1_1?s=books&ie=UTF8&qid=1491536427&sr=1-1&keywords=crucial+conversations) -- Kerry Patterson
 - [ ] [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) -- Douglas Crockford
 - [ ] [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery) -- Dan Brown
-- [ ] [The Majesty of Vue.js 2](https://leanpub.com/vuejs2) -- Kostas Maniatin, Evan You and Alex Kyriakidis
+- [x] [The Majesty of Vue.js 2](https://leanpub.com/vuejs2) -- Kostas Maniatin, Evan You and Alex Kyriakidis
 - [ ] [How To Win Friends and Influence People](https://www.amazon.com/dp/B01H38S9FY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dale Carnegie
 - [ ] [The Only Investment Guide You'll Ever Need](https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=SEFJYF5T04J7PDYV0MK6) -- Andrew Tobias
 - [ ] [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) -- Michael Fogus
