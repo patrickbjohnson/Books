@@ -18,3 +18,4 @@
 - [ ] [Make Your Mark: A Creative's Guide to Building a Business](https://www.amazon.com/dp/B00FL3YL9W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Jocelyn K. Glei
 - [ ] [Discussing Design](http://shop.oreilly.com/product/0636920033561.do) -- Aaron Irizarry and Adam Connor
 - [ ] [Where We Stand: Class Matter](https://www.amazon.com/Where-We-Stand-Class-Matters/dp/041592913X) -- bell hooks
+- [x] [Resilient Web Design](https://resilientwebdesign.com/)
