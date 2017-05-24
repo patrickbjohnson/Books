@@ -19,3 +19,5 @@
 - [ ] [Discussing Design](http://shop.oreilly.com/product/0636920033561.do) -- Aaron Irizarry and Adam Connor
 - [ ] [Where We Stand: Class Matter](https://www.amazon.com/Where-We-Stand-Class-Matters/dp/041592913X) -- bell hooks
 - [x] [Resilient Web Design](https://resilientwebdesign.com/)
+- [x] [Rich20Something: Ditch Your Average Job, Start an Epic Business, and Score the Life You Want](https://www.amazon.com/s/ref=nb_sb_ss_c_2_9?url=search-alias%3Dstripbooks&field-keywords=daniel+dipiazza&sprefix=daniel+di%2Caps%2C125&crid=9ZEXW5IOPP8J)
+- [ ] [The Art of the Interview: Lessons from a Master of the Craft ](https://www.amazon.com/Art-Interview-Lessons-Master-Craft-ebook/dp/B003FCVEX2/ref=mt_kindle?_encoding=UTF8&me=)
