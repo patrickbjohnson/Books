@@ -9,6 +9,8 @@
 - [x] [Resilient Web Design](https://resilientwebdesign.com/)
 - [x] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript ](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 - [x] [The Majesty of Vue.js 2](https://leanpub.com/vuejs2) -- Kostas Maniatin, Evan You and Alex Kyriakidis
+- [x] [Rich20Something: Ditch Your Average Job, Start an Epic Business, and Score the Life You Want](https://www.amazon.com/s/ref=nb_sb_ss_c_2_9?url=search-alias%3Dstripbooks&field-keywords=daniel+dipiazza&sprefix=daniel+di%2Caps%2C125&crid=9ZEXW5IOPP8J) -- Daniel DiPiazza
+- [x] [The Art of the Interview: Lessons from a Master of the Craft ](https://www.amazon.com/Art-Interview-Lessons-Master-Craft-ebook/dp/B003FCVEX2/ref=mt_kindle?_encoding=UTF8&me=) -- Lawrence Grobel
 - [ ] [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) -- Douglas Crockford
 - [ ] [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery) -- Dan Brown
 - [ ] [How To Win Friends and Influence People](https://www.amazon.com/dp/B01H38S9FY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dale Carnegie
