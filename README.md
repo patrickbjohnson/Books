@@ -6,7 +6,7 @@
 - [x] [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X) -- Tim Berners-Lee
 - [x] [Atomic Design](http://atomicdesign.bradfrost.com/) -- Brad Frost
 - [x] [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Business-ebook/dp/B005K0AYH4/ref=sr_1_1?s=books&ie=UTF8&qid=1491536427&sr=1-1&keywords=crucial+conversations) -- Kerry Patterson
-- [x] [Resilient Web Design](https://resilientwebdesign.com/)
+- [x] [Resilient Web Design](https://resilientwebdesign.com/) --  Jeremy Keith
 - [x] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript ](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 - [x] [The Majesty of Vue.js 2](https://leanpub.com/vuejs2) -- Kostas Maniatin, Evan You and Alex Kyriakidis
 - [x] [Rich20Something: Ditch Your Average Job, Start an Epic Business, and Score the Life You Want](https://www.amazon.com/s/ref=nb_sb_ss_c_2_9?url=search-alias%3Dstripbooks&field-keywords=daniel+dipiazza&sprefix=daniel+di%2Caps%2C125&crid=9ZEXW5IOPP8J) -- Daniel DiPiazza
