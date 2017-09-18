@@ -12,6 +12,7 @@
 - [x] [Rich20Something: Ditch Your Average Job, Start an Epic Business, and Score the Life You Want](https://www.amazon.com/s/ref=nb_sb_ss_c_2_9?url=search-alias%3Dstripbooks&field-keywords=daniel+dipiazza&sprefix=daniel+di%2Caps%2C125&crid=9ZEXW5IOPP8J) -- Daniel DiPiazza
 - [x] [The Art of the Interview: Lessons from a Master of the Craft ](https://www.amazon.com/Art-Interview-Lessons-Master-Craft-ebook/dp/B003FCVEX2/ref=mt_kindle?_encoding=UTF8&me=) -- Lawrence Grobel
 - [x] [Essential Skills for the Agile Developer](https://www.amazon.com/Essential-Skills-Agile-Developer-Programming/dp/0321543734) -- Alan Shalloway, Scott Bain, Ken Pugh, Amir Kolsky
+- [x] [Make Your Mark: A Creative's Guide to Building a Business](https://www.amazon.com/dp/B00FL3YL9W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Jocelyn K. Glei
 - [ ] [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) -- Douglas Crockford
 - [ ] [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery) -- Dan Brown
 - [ ] [How To Win Friends and Influence People](https://www.amazon.com/dp/B01H38S9FY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dale Carnegie
@@ -20,6 +21,5 @@
 - [ ] [Learning Javascript Design Patterns](http://shop.oreilly.com/product/0636920025832.do) -- Addy Osmani
 - [ ] [Writing That Works](https://www.amazon.com/dp/B0040GJDSA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Kenneth Roman and Joel Raphaelson
 - [ ] [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do) -- Stoyan Stefanov
-- [ ] [Make Your Mark: A Creative's Guide to Building a Business](https://www.amazon.com/dp/B00FL3YL9W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Jocelyn K. Glei
 - [ ] [Discussing Design](http://shop.oreilly.com/product/0636920033561.do) -- Aaron Irizarry and Adam Connor
-- [ ] [Where We Stand: Class Matter](https://www.amazon.com/Where-We-Stand-Class-Matters/dp/041592913X) -- bell hooks
+- [ ] [Where We Stand: Class Matters](https://www.amazon.com/Where-We-Stand-Class-Matters/dp/041592913X) -- bell hooks
