@@ -13,8 +13,10 @@
 - [x] [The Art of the Interview: Lessons from a Master of the Craft ](https://www.amazon.com/Art-Interview-Lessons-Master-Craft-ebook/dp/B003FCVEX2/ref=mt_kindle?_encoding=UTF8&me=) -- Lawrence Grobel
 - [x] [Essential Skills for the Agile Developer](https://www.amazon.com/Essential-Skills-Agile-Developer-Programming/dp/0321543734) -- Alan Shalloway, Scott Bain, Ken Pugh, Amir Kolsky
 - [x] [Make Your Mark: A Creative's Guide to Building a Business](https://www.amazon.com/dp/B00FL3YL9W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Jocelyn K. Glei
-- [ ] [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) -- Douglas Crockford
-- [ ] [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery) -- Dan Brown
+- [x] [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) -- Douglas Crockford
+- [x] [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery) -- Dan Brown
+- [x] [Change Starts Within You](https://www.amazon.com/dp/B072YZKF5K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Courtney McDermott
+- [x] [Why We Work](https://www.amazon.com/dp/B00NZWJE3O/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) -- Barry Schwartz
 - [ ] [How To Win Friends and Influence People](https://www.amazon.com/dp/B01H38S9FY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dale Carnegie
 - [ ] [The Only Investment Guide You'll Ever Need](https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=SEFJYF5T04J7PDYV0MK6) -- Andrew Tobias
 - [ ] [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) -- Michael Fogus
